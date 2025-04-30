@@ -1,10 +1,10 @@
-# 🧱 Design Patterns & Clean Architecture with C#
+# Design Patterns & Clean Architecture with C#
 
 This project aims to explore and implement key **Design Patterns** and **Clean Architecture** concepts using the **C#** programming language and the .NET platform.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The main goal is to study and apply:
 
@@ -16,7 +16,7 @@ The main goal is to study and apply:
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - [.NET 8.0](https://dotnet.microsoft.com/)
 - C#
@@ -25,7 +25,7 @@ The main goal is to study and apply:
 
 ---
 
-## 📐 Project Structure
+## Project Structure
 
 The project is organized into multiple folders, grouped by topic:
 
