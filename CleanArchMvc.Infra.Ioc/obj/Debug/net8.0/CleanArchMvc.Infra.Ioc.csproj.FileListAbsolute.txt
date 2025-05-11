@@ -18,3 +18,5 @@ C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.Infra.Ioc\obj\Debug\net8.
 C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Ioc.dll
 C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.pdb
 C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Ioc.dll
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.Infra.Ioc\bin\Debug\net8.0\CleanArchMvc.Infra.Ioc.runtimeconfig.json
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.genruntimeconfig.cache
