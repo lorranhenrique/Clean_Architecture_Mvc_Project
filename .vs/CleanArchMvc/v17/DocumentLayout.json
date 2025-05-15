@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0241F7AD-1F02-4CD5-A88F-774F113AF687}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0241F7AD-1F02-4CD5-A88F-774F113AF687}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0241F7AD-1F02-4CD5-A88F-774F113AF687}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0241F7AD-1F02-4CD5-A88F-774F113AF687}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0241F7AD-1F02-4CD5-A88F-774F113AF687}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0241F7AD-1F02-4CD5-A88F-774F113AF687}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:57:17.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:38:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:34:24.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
