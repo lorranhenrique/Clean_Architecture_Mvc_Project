@@ -11,7 +11,7 @@ namespace CleanArchMvc.Domain.Interfaces
     {
         // Task is a async operation
 
-        Task<IEnumerator<Product>> GetProductsAsync();
+        Task<IEnumerable<Product>> GetProductsAsync();
         Task<Product> GetByIdAsync(int? id);
         Task<Product> GetProductCategoryAsync(int? id);
         Task<Product> CreateAsync(Product Product);
