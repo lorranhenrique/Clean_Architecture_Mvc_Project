@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CleanArchMvc.WebUI.b7q8z0r8gh.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b7q8z0r8gh"},{"Name":"integrity","Value":"sha256-p\u002BnjAG77AokVxbUorF0EYHImpSgAc\u002Bqq7/DBwrsMRuA="},{"Name":"label","Value":"_content/CleanArchMvc.WebUI/CleanArchMvc.WebUI.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1136"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p\u002BnjAG77AokVxbUorF0EYHImpSgAc\u002Bqq7/DBwrsMRuA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 14:35:54 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1136"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p\u002BnjAG77AokVxbUorF0EYHImpSgAc\u002Bqq7/DBwrsMRuA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 18:33:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CleanArchMvc.WebUI/CleanArchMvc.WebUI.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CleanArchMvc.WebUI.b7q8z0r8gh.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p\u002BnjAG77AokVxbUorF0EYHImpSgAc\u002Bqq7/DBwrsMRuA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1136"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p\u002BnjAG77AokVxbUorF0EYHImpSgAc\u002Bqq7/DBwrsMRuA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 14:35:54 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1136"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p\u002BnjAG77AokVxbUorF0EYHImpSgAc\u002Bqq7/DBwrsMRuA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 18:33:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CleanArchMvc.WebUI/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

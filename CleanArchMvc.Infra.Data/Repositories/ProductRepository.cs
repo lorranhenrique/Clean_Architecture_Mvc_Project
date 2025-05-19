@@ -37,9 +37,9 @@ namespace CleanArchMvc.Infra.Data.Repositories
                 .SingleOrDefaultAsync(m => m.Id == id);
         }
 
-        public async Task<IEnumerator<Product>> GetProductsAsync()
+        public async Task<IEnumerable<Product>> GetProductsAsync()
         {
-            return (IEnumerator<Product>)await _productContext.Products.ToListAsync();
+            return await _productContext.Products.ToListAsync();
         }
 
         public async Task<Product> RemoveAsync(Product product)
