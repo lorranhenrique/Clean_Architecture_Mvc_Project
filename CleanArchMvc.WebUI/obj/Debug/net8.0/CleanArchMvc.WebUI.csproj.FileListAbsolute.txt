@@ -221,4 +221,8 @@ C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\Me
 C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
-C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\lorran\GITHUB\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
