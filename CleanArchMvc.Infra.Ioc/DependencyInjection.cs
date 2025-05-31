@@ -12,6 +12,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MediatR;
+using Microsoft.AspNetCore.Identity;
+using CleanArchMvc.Infra.Data.Identity;
+using CleanArchMvc.Domain.Account;
 
 namespace CleanArchMvc.Infra.Ioc
 {
@@ -23,11 +26,22 @@ namespace CleanArchMvc.Infra.Ioc
             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"
             ), b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
 
+            services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
+
+            services.ConfigureApplicationCookie(options =>
+                options.AccessDeniedPath = "/Account/Login"
+            );
+
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
-
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICategoryService, CategoryService>();
+
+            services.AddScoped<IAuthenticate, AuthenticateService>();
+            services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
             services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 
             var myHandlers = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
