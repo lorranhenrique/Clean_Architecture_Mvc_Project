@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2951639-A891-47D1-97D1-497755864B6E}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2951639-A891-47D1-97D1-497755864B6E}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2951639-A891-47D1-97D1-497755864B6E}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2951639-A891-47D1-97D1-497755864B6E}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12264CD2-342A-45F3-A47B-3EE75967075D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12264CD2-342A-45F3-A47B-3EE75967075D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12264CD2-342A-45F3-A47B-3EE75967075D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12264CD2-342A-45F3-A47B-3EE75967075D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A31B219B-E2ED-499A-9EA3-8B58EE46B4A7}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.domain\\account\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31B219B-E2ED-499A-9EA3-8B58EE46B4A7}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\account\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2951639-A891-47D1-97D1-497755864B6E}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\lorran\\github\\clean_architecture\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2951639-A891-47D1-97D1-497755864B6E}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SeedUserRoleInitial.cs",
               "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
               "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
               "RelativeToolTip": "CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwCQAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T18:12:10.945Z",
+              "WhenOpened": "2025-05-31T01:26:42.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuthenticate.cs",
-              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
-              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
-              "RelativeToolTip": "CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T18:04:48.603Z",
+              "WhenOpened": "2025-05-31T01:15:44.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthenticateService.cs",
-              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
-              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:55:02.862Z",
+              "WhenOpened": "2025-05-31T01:15:13.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\lorran\\GITHUB\\Clean_Architecture\\CleanArchMvc.WebUI\\Program.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:06:20.221Z",
               "EditorCaption": ""
             }
           ]
