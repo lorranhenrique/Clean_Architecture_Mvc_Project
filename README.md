@@ -8,7 +8,7 @@ This project aims to explore and implement key **Design Patterns** and **Clean A
 
 The main goal is to study and apply:
 
-- Common Design Patterns (GoF - Gang of Four)
+- Domain Driven Design (DDD)
 - SOLID principles
 - Separation of concerns
 - Clean Architecture by Robert C. Martin (Uncle Bob)
